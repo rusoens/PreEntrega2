@@ -17,3 +17,7 @@ Creo haber puesto todos los agregados solicitados. El único inconveniente que n
 A la espera de novedades y de eventuales correcciones en caso de ser necesario.
 
 Desde ya muchas gracias!!
+
+(Nueva aclaración: en el footer tengo contacto y redes sociales. Si bien sé como agregar los respectivos links, pero no lo he hecho ya que se trata de una empresa constructora ficticia, por lo que dichas redes no existen).
+
+Nuevamente, muchas gracias!!
